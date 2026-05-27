@@ -47,8 +47,9 @@ Para executar as análises e reproduzir os resultados deste repositório na sua 
 
 **1. Clone o repositório:**
 ```bash
-git clone [https://github.com/SEU_USUARIO/NOME_DO_REPOSITORIO.git](https://github.com/SEU_USUARIO/NOME_DO_REPOSITORIO.git)
-cd NOME_DO_REPOSITORIO
+git clone https://github.com/Gab-Andrade/Minera-o-de-dados---E-commerce-e-comportamento-de-compra.git
+cd Minera-o-de-dados---E-commerce-e-comportamento-de-compra
+
 
 ## 🗂️ Base de Dados
 
