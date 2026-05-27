@@ -49,7 +49,7 @@ Para executar as análises e reproduzir os resultados deste repositório na sua 
 ```bash
 git clone https://github.com/Gab-Andrade/Minera-o-de-dados---E-commerce-e-comportamento-de-compra.git
 cd Minera-o-de-dados---E-commerce-e-comportamento-de-compra
-
+```
 
 ## 🗂️ Base de Dados
 
