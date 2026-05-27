@@ -6,9 +6,10 @@ Este repositório contém o pipeline completo de dados para a análise e cluster
 **Contexto Acadêmico:** Projeto desenvolvido para a disciplina de Ciência de Dados 2 do curso de Sistemas de Informação da Universidade Federal de Uberlândia (UFU).
 
 **Autor(es):**
-* Gabriel Andrade Lima de Freitas
 * Caio Cusinato Figueiredo
-* [Nome do Integrante 3, se houver]
+* Diego
+* Gabriel Andrade Lima de Freitas
+* ìtalo Nunes
 * Pedro henrique Salles dos Santos
 ---
 
