@@ -49,3 +49,12 @@ Para executar as análises e reproduzir os resultados deste repositório na sua 
 ```bash
 git clone [https://github.com/SEU_USUARIO/NOME_DO_REPOSITORIO.git](https://github.com/SEU_USUARIO/NOME_DO_REPOSITORIO.git)
 cd NOME_DO_REPOSITORIO
+
+## 🗂️ Base de Dados
+
+Devido ao tamanho dos arquivos e às boas práticas de versionamento (Git), a base de dados original não foi enviada para este repositório. 
+
+Para reproduzir as análises, faça o download do dataset público no Kaggle:
+* 🔗 **[Brazilian E-Commerce Public Dataset by Olist](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce)**
+
+Após o download, extraia os arquivos e insira-os dentro da pasta `data/raw/` na raiz do projeto.
