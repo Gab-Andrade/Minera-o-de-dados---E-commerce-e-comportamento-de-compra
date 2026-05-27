@@ -1,0 +1,9 @@
+# Ignorar ambiente virtual
+venv/
+
+# Ignorar dados brutos
+data/raw/
+
+# Ignorar ficheiros temporários do Jupyter
+.ipynb_checkpoints/
+__pycache__/
