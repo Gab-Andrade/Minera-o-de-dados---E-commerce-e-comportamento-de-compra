@@ -7,9 +7,9 @@ Este repositório contém o pipeline completo de dados para a análise e cluster
 
 **Autor(es):**
 * Caio Cusinato Figueiredo
-* Diego
+* Diego Marques Amorim
 * Gabriel Andrade Lima de Freitas
-* ìtalo Nunes
+* Ítalo Nunes Tillmann de Abreu
 * Pedro henrique Salles dos Santos
 ---
 
