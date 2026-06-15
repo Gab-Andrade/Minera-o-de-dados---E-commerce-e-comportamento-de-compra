@@ -7,9 +7,9 @@ Este repositório contém o pipeline completo de dados para a análise e cluster
 
 **Autor(es):**
 * Caio Cusinato Figueiredo
-* Diego
+* Diego Marques Amorim
 * Gabriel Andrade Lima de Freitas
-* ìtalo Nunes
+* Ítalo Nunes Tillmann de Abreu
 * Pedro henrique Salles dos Santos
 ---
 
@@ -20,7 +20,7 @@ O projeto foi estruturado em quatro etapas progressivas:
 ### 1. Coleta e Pré-processamento (Etapa 1)
 * **Objetivo:** Aquisição dos dados, tratamento de valores faltantes e limpeza.
 * **Técnicas:** Normalização/Padronização (StandardScaler/MinMaxScaler), remoção de outliers e transformações iniciais.
-* 🎥 [Link para o Vídeo de Apresentação da Etapa 1]
+* 🎥 Link para o Vídeo de Apresentação da Etapa 1: https://youtu.be/X8DCP4WdYHw
 
 ### 2. Análise Exploratória de Dados - EDA (Etapa 2)
 * **Objetivo:** Compreensão do comportamento das variáveis e redução de dimensionalidade.
