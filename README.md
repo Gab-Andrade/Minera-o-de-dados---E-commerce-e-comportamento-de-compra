@@ -25,7 +25,7 @@ O projeto foi estruturado em quatro etapas progressivas:
 ### 2. Análise Exploratória de Dados - EDA (Etapa 2)
 * **Objetivo:** Compreensão do comportamento das variáveis e redução de dimensionalidade.
 * **Técnicas:** Estatísticas descritivas, matriz de correlação, visualizações (histogramas, boxplots) e aplicação de PCA/t-SNE/UMAP.
-* 🎥 [Link para o Vídeo de Apresentação da Etapa 2]
+* 🎥 Link para o Vídeo de Apresentação da Etapa 2: https://youtu.be/GVDpzHv1ncQ
 
 ### 3. Clusterização e Avaliação (Etapa 3)
 * **Objetivo:** Agrupamento não supervisionado dos dados.
