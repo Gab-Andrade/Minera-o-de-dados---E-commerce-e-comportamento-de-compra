@@ -22,10 +22,10 @@ O projeto foi estruturado em quatro etapas progressivas:
 * **Técnicas:** Normalização/Padronização (StandardScaler/MinMaxScaler), remoção de outliers e transformações iniciais.
 * 🎥 Link para o Vídeo de Apresentação da Etapa 1: https://youtu.be/X8DCP4WdYHw
 
-### 2. Análise Exploratória de Dados - EDA (Etapa 2)
-* **Objetivo:** Compreensão do comportamento das variáveis e redução de dimensionalidade.
-* **Técnicas:** Estatísticas descritivas, matriz de correlação, visualizações (histogramas, boxplots) e aplicação de PCA/t-SNE/UMAP.
-* 🎥 [Link para o Vídeo de Apresentação da Etapa 2]
+### 📊 2. Análise Exploratória de Dados - EDA (Etapa 2)
+* **Objetivo:** Compreensão da distribuição dos dados e extração de padrões preliminares.
+* **Técnicas:** Estatísticas descritivas, Boxplots/Histogramas (Escala Log), Correlação de Spearman e Redução de Dimensionalidade (PCA).
+* 🎥 **[Link para o Vídeo de Apresentação da Etapa 2](insira-o-link-aqui)**
 
 ### 3. Clusterização e Avaliação (Etapa 3)
 * **Objetivo:** Agrupamento não supervisionado dos dados.
