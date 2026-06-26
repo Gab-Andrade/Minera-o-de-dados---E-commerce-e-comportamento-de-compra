@@ -31,7 +31,7 @@ O projeto foi estruturado em quatro etapas progressivas:
 * **Objetivo:** Agrupamento não supervisionado dos dados.
 * **Algoritmos Testados:** K-Means, Clustering Hierárquico e DBSCAN.
 * **Métricas:** Silhouette Score, Davies-Bouldin, Calinski-Harabasz e testes de estabilidade (Adjusted Rand Index).
-* 🎥 Link para o Vídeo de Apresentação da Etapa 3: https://youtu.be/to39asqrji0
+* 🎥 Link para o Vídeo de Apresentação da Etapa 3: https://youtu.be/icuOqNgmJ8Q
 
 ### 4. Padrões Frequentes e Conclusões (Etapa 4)
 * **Objetivo:** Mineração de regras de associação e documentação final.
